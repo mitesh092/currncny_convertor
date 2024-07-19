@@ -1,4 +1,4 @@
-const URL = "https://api.currencyapi.com/v3/latest?apikey=cur_live_d60rN3WOSf61ExLgt8DmuGqb7GrOHoJMt74q9wa5";
+const URL = "https://api.currencyapi.com/v3/latest?apikey=Your_API";
 //  Edit your APi key from  navigate this website https://currencyapi.com/ get API KEY Through Login
 const dropDown = document.querySelectorAll(".dropDown select");
 const btn  = document.querySelector("form button");
